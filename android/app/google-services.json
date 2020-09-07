@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209045525429",
+    "firebase_url": "https://sparks-e8d58.firebaseio.com",
+    "project_id": "sparks-e8d58",
+    "storage_bucket": "sparks-e8d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209045525429:android:cefc47d2fef2450050fffc",
+        "android_client_info": {
+          "package_name": "com.example.plasma_donour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209045525429-22o9qeom1lf5r2oicfjia5s516o1bp5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYO_LLSqSLLEt1r-IiQFESr_gR6LbN8ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209045525429-22o9qeom1lf5r2oicfjia5s516o1bp5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
